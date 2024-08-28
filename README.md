@@ -89,6 +89,6 @@ Contributions to this project are welcome. Feel free to fork the repository, mak
 ## Contact
 
 For any inquiries or support, please contact:
-- **Your Name**
+- **Nandini Asadi**
 - [LinkedIn](https://www.linkedin.com/in/nandini-asadi-8a4873241/)
 - [GitHub](https://github.com/nandini-asadi)
